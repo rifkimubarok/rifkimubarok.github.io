@@ -22,7 +22,6 @@ workbox.precaching.precacheAndRoute([
   { url: "/js/script.js", revision: "1" },
   { url: "/js/nav.js", revision: "1" },
   { url: "/js/registerWorker.js", revision: "1" },
-  { url: "/js/permission.js", revision: "1" },
   { url: "/js/viewRender.js", revision: "1" },
   { url: "/css/materialize.min.css", revision: "1" },
   { url: "/css/style.css", revision: "1" },
